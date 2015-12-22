@@ -1,4 +1,9 @@
 Rails.application.routes.draw do
+  
+
+
+
+
   get 'math' => 'math#math'
 
   # The priority is based upon order of creation: first created -> highest priority.
